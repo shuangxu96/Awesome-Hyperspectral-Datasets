@@ -31,7 +31,7 @@ GSR - ground sampling distance
 |**Luojia-HSSR**| | |Xu Y, Gong J, Huang X, et al. Luojia-HSSR: A high spatial-spectral resolution remote sensing dataset for land-cover classification with a new 3D-HRNet[J]. Geo-spatial Information Science, 2022: 1-13.|[link](https://github.com/yuexu9441/Luojia-HSSR-Dataset)|
 |**Toulouse**| | |L. Roupioz, et al. Multi-source datasets acquired over Toulouse (France) in 2021 for urban microclimate studies during the CAMCATT/AI4GEO field campaign. Data in Brief |[link](https://www.toulouse-hyperspectral-data-set.com/)|
 
- 
+ <a href="bibtex.html#Toulouse" target="_blank">BibTeX</a>
 
 
 ## Hyperspectral Change Detection
