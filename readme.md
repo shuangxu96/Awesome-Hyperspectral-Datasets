@@ -52,7 +52,7 @@ GSR - ground sampling distance
 
 |Name|Pixels|Bands|Citation|Download|
 |:---:|---|:---:|:---:|:---:|
-|**WHU-Hi-River**|105 × 168|135|S. Wang, et al. "Hyperspectral anomaly detection via locally enhanced low-rank prior," IEEE Trans. Geosci. Remote Sens., vol. 58, no. 10, pp. 6995-7009, Oct. 2020.|[link](http://rsidea.whu.edu.cn/resource_WHUHiriver_sharing.htm)|
+|**WHU-Hi-River**|105 × 168|135| [BibTeX](https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#WHU-Hi-River) |[link](http://rsidea.whu.edu.cn/resource_WHUHiriver_sharing.htm)|
 |**ABU**| | | |[link](http://xudongkang.weebly.com/data-sets.html)|
 
 
