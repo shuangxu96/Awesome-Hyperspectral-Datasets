@@ -25,13 +25,16 @@ GSR - ground sampling distance
 |**Qingdao UAV-borne HSI**| | |H. Fu, et al. Three-dimensional singular spectrum analysis for precise land cover classification from UAV-borne hyperspectral benchmark datasets. ISPRS JPRS|[link](https://zenodo.org/records/8223066)|
 |**WHU-Hi**(LongKou,HanChuan,HongHu)|550 × 400,1217 × 303,940 × 475|270,274,270|Y. Zhong, et al. “WHU-Hi: UAV-borne hyperspectral with high spatial resolution (H2) benchmark datasets and classifier for precise crop identification based on deep convolutional neural network with CRF”, Remote Sens. Environ., vol. 250, pp. 112012, 2020.|[link](http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm)|
 |**AeroRIT**| | |A. Rangnekar, et al. Aerorit: A new scene for hyperspectral image analysis, IEEE TGRS|[link](https://zenodo.org/records/8223066)|
-|**TAIGA**| | |Matti Mõttus, et al. TAIGA: A Novel Dataset for Multitask Learning of Continuous and Categorical Forest Variables From Hyperspectral Imagery, IEEE TGRS|[link](https://etsin.fairdata.fi/dataset/9d0e89aa-f81f-458d-a657-3f02edf9e61b/data)|
+|**TAIGA**| | | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#TAIGA" target="_blank">BibTeX</a> |[link](https://etsin.fairdata.fi/dataset/9d0e89aa-f81f-458d-a657-3f02edf9e61b/data)|
 |**Xiongan**| | | |[link]( )|
-|**WHU-OHS**|7795 patches 512x512|32|J. Li, X. Huang, and L. Tu, “WHU-OHS : A benchmark dataset for large-scale Hersepctral Image classification,” Int. J. Appl. Earth Obs. Geoinf., vol. 113, no. September, p. 103022, 2022|[link](http://irsip.whu.edu.cn/resources/WHU_OHS_show.php)|
-|**Luojia-HSSR**| | |Xu Y, Gong J, Huang X, et al. Luojia-HSSR: A high spatial-spectral resolution remote sensing dataset for land-cover classification with a new 3D-HRNet[J]. Geo-spatial Information Science, 2022: 1-13.|[link](https://github.com/yuexu9441/Luojia-HSSR-Dataset)|
-|**Toulouse**| | |L. Roupioz, et al. Multi-source datasets acquired over Toulouse (France) in 2021 for urban microclimate studies during the CAMCATT/AI4GEO field campaign. Data in Brief |[link](https://www.toulouse-hyperspectral-data-set.com/)|
+|**WHU-OHS**|7795 patches 512x512|32| <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#WHU_OHS" target="_blank">BibTeX</a> |[link](http://irsip.whu.edu.cn/resources/WHU_OHS_show.php)|
+|**Luojia-HSSR**| | | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Luojia_HSSR" target="_blank">BibTeX</a> |[link](https://github.com/yuexu9441/Luojia-HSSR-Dataset)|
+|**Toulouse**| |    | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Toulouse" target="_blank">BibTeX</a>    |[link](https://www.toulouse-hyperspectral-data-set.com/)|
 
- <a href="bibtex.html#Toulouse" target="_blank">BibTeX</a>
+ 
+
+
+  
 
 
 ## Hyperspectral Change Detection
@@ -66,16 +69,16 @@ GSR - ground sampling distance
 |**Houston 18**| HSI+LiDAR | Classification | |[link]( )|
 |**WHU-H2SR-MT**| HSI+MSI(Multi-temporal Sentinel-2) | Segmentation |Yu, B., Li, J., & Huang, X. (2024). STSNet: A cross-spatial resolution multi-modal remote sensing deep fusion network for high resolution land-cover segmentation. Information Fusion, 102689.|[link](https://zenodo.org/records/10578673)|
 |**MUESLI**| HSI+LiDAR | | Yu, B., Li, J., & Huang, X. (2024). STSNet: A cross-spatial resolution multi-modal remote sensing deep fusion network for high resolution land-cover segmentation. Information Fusion, 102689.|[link](https://zenodo.org/records/10578673)|
+|**M2SODAI**| HSI+RGB | Object detection | [BibTeX](https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#M2SODAI) |[link](https://github.com/jonggyujang0123/M2SODAI)|
 |**NEON Tree**| HSI+LiDAR | Object detection | Yu, B., Li, J., & Huang, X. (2024). STSNet: A cross-spatial resolution multi-modal remote sensing deep fusion network for high resolution land-cover segmentation. Information Fusion, 102689.|[link](https://zenodo.org/records/10578673)|
 |**WHU-MHF**| HSI+MSI | Super-resolution | Z. Zhu, X. Wang, G. Li and Y. Zhong, "A Self-Supervised Spaceborne Multispectral and Hyperspectral Image Fusion Unrolling Network," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-12, 2024, Art no. 5520712, doi: 10.1109/TGRS.2024.3413023.|[link](http://rsidea.whu.edu.cn/WHU-MHF.htm)|
 |**PRISMA**| HSI+PAN | Super-resolution | G. Vivone, A. Garzelli, Y. Xu, W. Liao and J. Chanussot. Panchromatic and Hyperspectral Image Fusion: Outcome of the 2022 WHISPERS Hyperspectral Pansharpening Challenge. IEEE JSTARS |[link](https://openremotesensing.net/knowledgebase/panchromatic-and-hyperspectral-image-fusion-outcome-of-the-2022-whispers-hyperspectral-pansharpening-challenge/)|
 |**C2Seg**| HSI+MSI+SAR | Semantic Segmentation | D. Hong, et al. Cross-City Matters: A Multimodal Remote Sensing Benchmark Dataset for Cross-City Semantic Segmentation using High-Resolution Domain Adaptation Networks. RSE. |[link](https://github.com/danfenghong/RSE_Cross-city)|
 |**MDAS**(Augsburg)| HSI+MSI+SAR | Classification/Super-resolution | J. Hu, et al. MDAS: A New Multimodal Benchmark Dataset for Remote Sensing. |[link](https://mediatum.ub.tum.de/1657312)|
+|**BerlinUrbGrad**| HSI+SAR | Classification | [BibTeX](https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#BerlinUrbGrad) |[link](http://doi.org/10.5880/enmap.2016.002)|
 
 
-
-
-
+ 
 
 
 
