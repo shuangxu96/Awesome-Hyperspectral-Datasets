@@ -24,7 +24,7 @@ GSR - ground sampling distance
 |**Botswana**| |||[link](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes)|
 |**Qingdao UAV-borne HSI**| | |H. Fu, et al. Three-dimensional singular spectrum analysis for precise land cover classification from UAV-borne hyperspectral benchmark datasets. ISPRS JPRS|[link](https://zenodo.org/records/8223066)|
 |**WHU-Hi**(LongKou,HanChuan,HongHu)|550 × 400,1217 × 303,940 × 475|270,274,270|Y. Zhong, et al. “WHU-Hi: UAV-borne hyperspectral with high spatial resolution (H2) benchmark datasets and classifier for precise crop identification based on deep convolutional neural network with CRF”, Remote Sens. Environ., vol. 250, pp. 112012, 2020.|[link](http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm)|
-|**AeroRIT**| | |A. Rangnekar, et al. Aerorit: A new scene for hyperspectral image analysis, IEEE TGRS|[link](https://zenodo.org/records/8223066)|
+|**AeroRIT**| | | [BibTeX](https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#AeroRIT) |[link](https://zenodo.org/records/8223066)|
 |**TAIGA**| | | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#TAIGA" target="_blank">BibTeX</a> |[link](https://etsin.fairdata.fi/dataset/9d0e89aa-f81f-458d-a657-3f02edf9e61b/data)|
 |**Xiongan**| | | |[link]( )|
 |**WHU-OHS**|7795 patches 512x512|32| <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#WHU_OHS" target="_blank">BibTeX</a> |[link](http://irsip.whu.edu.cn/resources/WHU_OHS_show.php)|
