@@ -31,6 +31,7 @@ GSR - ground sampling distance
 |**Luojia-HSSR**| | | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Luojia_HSSR" target="_blank">BibTeX</a> |[link](https://github.com/yuexu9441/Luojia-HSSR-Dataset)|
 |**Toulouse**| |    | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Toulouse" target="_blank">BibTeX</a>    |[link](https://www.toulouse-hyperspectral-data-set.com/)|
 |**OHID-1**| 10 patches 512x512 | 32 | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#OHID-1" target="_blank">BibTeX</a>    |[link](https://figshare.com/articles/online_resource/OHID-1/27966024/8?file=51215300)|
+|**HYPSO-1 Sea-Land-Cloud-Labeled Dataset**| 10 patches 512x512 | 32 | <a href="https://arxiv.org/abs/2308.13679" target="_blank">arxiv</a>    |[link](https://ntnu-smallsat-lab.github.io/hypso1_sea_land_clouds_dataset/dataset.html)|
 
  
 
