@@ -30,6 +30,7 @@ GSR - ground sampling distance
 |**WHU-OHS**|7795 patches 512x512|32| <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#WHU_OHS" target="_blank">BibTeX</a> |[link](http://irsip.whu.edu.cn/resources/WHU_OHS_show.php)|
 |**Luojia-HSSR**| | | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Luojia_HSSR" target="_blank">BibTeX</a> |[link](https://github.com/yuexu9441/Luojia-HSSR-Dataset)|
 |**Toulouse**| |    | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#Toulouse" target="_blank">BibTeX</a>    |[link](https://www.toulouse-hyperspectral-data-set.com/)|
+|**OHID-1**| 10 patches 512x512 | 32 | <a href="https://shuangxu96.github.io/Files/BibTeX_HSI_datasets.html#OHID-1" target="_blank">BibTeX</a>    |[link](https://figshare.com/articles/online_resource/OHID-1/27966024/8?file=51215300)|
 
  
 
